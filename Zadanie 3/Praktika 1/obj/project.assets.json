@@ -1,0 +1,65 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    "net5.0": []
+  },
+  "packageFolders": {
+    "C:\\Users\\shatovia\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\OneDrive\\Education\\NGIEU\\Подготовка к зимней сессии 2 года\\Технологии программирования Маслов Н.С. 17 вариант\\csharp_ngieu\\Zadanie 3\\Praktika 1\\Praktika 1.csproj",
+      "projectName": "Praktika 1",
+      "projectPath": "D:\\OneDrive\\Education\\NGIEU\\Подготовка к зимней сессии 2 года\\Технологии программирования Маслов Н.С. 17 вариант\\csharp_ngieu\\Zadanie 3\\Praktika 1\\Praktika 1.csproj",
+      "packagesPath": "C:\\Users\\shatovia\\.nuget\\packages\\",
+      "outputPath": "D:\\OneDrive\\Education\\NGIEU\\Подготовка к зимней сессии 2 года\\Технологии программирования Маслов Н.С. 17 вариант\\csharp_ngieu\\Zadanie 3\\Praktika 1\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\shatovia\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

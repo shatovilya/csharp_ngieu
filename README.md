@@ -17,7 +17,7 @@ git clone https://github.com/shatovilya/csharp_ngieu.git
 cd csharp_ngieu/Zadanie 1/Praktika
 dotnet run
 ```
-
+Или открыть через программу Visual Studio, выбрать открытие проекта и открыть файл проекта с расшерением *.csproj. 
 ## Протестировано
 
 Протестирована работоспособность в операционных системах семейства Windows, с установкой комплекта средства разработки .NET 
