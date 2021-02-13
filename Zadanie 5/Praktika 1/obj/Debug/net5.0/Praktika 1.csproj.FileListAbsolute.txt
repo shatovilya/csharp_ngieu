@@ -1,0 +1,16 @@
+D:\OneDrive\Education\NGIEU\Подготовка к зимней сессии 2 года\Технологии программирования Маслов Н.С. 17 вариант\csharp_ngieu\Zadanie 5\Praktika 1\bin\Debug\net5.0\Praktika 1.exe
+D:\OneDrive\Education\NGIEU\Подготовка к зимней сессии 2 года\Технологии программирования Маслов Н.С. 17 вариант\csharp_ngieu\Zadanie 5\Praktika 1\bin\Debug\net5.0\Praktika 1.deps.json
+D:\OneDrive\Education\NGIEU\Подготовка к зимней сессии 2 года\Технологии программирования Маслов Н.С. 17 вариант\csharp_ngieu\Zadanie 5\Praktika 1\bin\Debug\net5.0\Praktika 1.runtimeconfig.json
+D:\OneDrive\Education\NGIEU\Подготовка к зимней сессии 2 года\Технологии программирования Маслов Н.С. 17 вариант\csharp_ngieu\Zadanie 5\Praktika 1\bin\Debug\net5.0\Praktika 1.runtimeconfig.dev.json
+D:\OneDrive\Education\NGIEU\Подготовка к зимней сессии 2 года\Технологии программирования Маслов Н.С. 17 вариант\csharp_ngieu\Zadanie 5\Praktika 1\bin\Debug\net5.0\Praktika 1.dll
+D:\OneDrive\Education\NGIEU\Подготовка к зимней сессии 2 года\Технологии программирования Маслов Н.С. 17 вариант\csharp_ngieu\Zadanie 5\Praktika 1\bin\Debug\net5.0\ref\Praktika 1.dll
+D:\OneDrive\Education\NGIEU\Подготовка к зимней сессии 2 года\Технологии программирования Маслов Н.С. 17 вариант\csharp_ngieu\Zadanie 5\Praktika 1\bin\Debug\net5.0\Praktika 1.pdb
+D:\OneDrive\Education\NGIEU\Подготовка к зимней сессии 2 года\Технологии программирования Маслов Н.С. 17 вариант\csharp_ngieu\Zadanie 5\Praktika 1\obj\Debug\net5.0\Praktika 1.csprojAssemblyReference.cache
+D:\OneDrive\Education\NGIEU\Подготовка к зимней сессии 2 года\Технологии программирования Маслов Н.С. 17 вариант\csharp_ngieu\Zadanie 5\Praktika 1\obj\Debug\net5.0\Praktika 1.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Education\NGIEU\Подготовка к зимней сессии 2 года\Технологии программирования Маслов Н.С. 17 вариант\csharp_ngieu\Zadanie 5\Praktika 1\obj\Debug\net5.0\Praktika 1.AssemblyInfoInputs.cache
+D:\OneDrive\Education\NGIEU\Подготовка к зимней сессии 2 года\Технологии программирования Маслов Н.С. 17 вариант\csharp_ngieu\Zadanie 5\Praktika 1\obj\Debug\net5.0\Praktika 1.AssemblyInfo.cs
+D:\OneDrive\Education\NGIEU\Подготовка к зимней сессии 2 года\Технологии программирования Маслов Н.С. 17 вариант\csharp_ngieu\Zadanie 5\Praktika 1\obj\Debug\net5.0\Praktika 1.csproj.CoreCompileInputs.cache
+D:\OneDrive\Education\NGIEU\Подготовка к зимней сессии 2 года\Технологии программирования Маслов Н.С. 17 вариант\csharp_ngieu\Zadanie 5\Praktika 1\obj\Debug\net5.0\Praktika 1.dll
+D:\OneDrive\Education\NGIEU\Подготовка к зимней сессии 2 года\Технологии программирования Маслов Н.С. 17 вариант\csharp_ngieu\Zadanie 5\Praktika 1\obj\Debug\net5.0\ref\Praktika 1.dll
+D:\OneDrive\Education\NGIEU\Подготовка к зимней сессии 2 года\Технологии программирования Маслов Н.С. 17 вариант\csharp_ngieu\Zadanie 5\Praktika 1\obj\Debug\net5.0\Praktika 1.pdb
+D:\OneDrive\Education\NGIEU\Подготовка к зимней сессии 2 года\Технологии программирования Маслов Н.С. 17 вариант\csharp_ngieu\Zadanie 5\Praktika 1\obj\Debug\net5.0\Praktika 1.genruntimeconfig.cache
